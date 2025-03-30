@@ -1,10 +1,12 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
+title: Emmanuel 🎸 BOUSQUET
+email: b.sleboda@icloud.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+#skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Votre prof de guitare à ASNIÈRES-SUR-SEINE depuis 1958</br></br>
+Des cours sur mesure, une méthode adaptée à chaque élève, et plus de 60 ans d’expérience pour vous guider, que vous soyez débutant ou avancé.</br></br>"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -33,18 +35,16 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: Location
+  location: Rue Paul Gillet, 92600 Asnières-sur-Seine
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: Site Web
+    url: http://www.tablanote.com
+  - title: youtube
+    url: https://www.youtube.com/@tablanote7184
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Rue Paul Gillet
+  - line: 92600 Asnières-sur-Seine
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
