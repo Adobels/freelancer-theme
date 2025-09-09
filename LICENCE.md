@@ -1,0 +1,1 @@
+© 2025 Emmanuel Bousquet. All rights reserved.

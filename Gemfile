@@ -1,3 +1,3 @@
+ruby '3.2.8'
 source "https://rubygems.org"
-gemspec
-gem "jekyll"
+gem 'github-pages'
